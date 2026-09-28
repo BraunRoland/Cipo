@@ -1,6 +1,6 @@
 import './App.css'
-import { Footer } from './footer'
-import { Header } from './header'
+import { Footer } from './components/footer'
+import { Header } from './components/header'
 
 function App() {
   return (
